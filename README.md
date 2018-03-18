@@ -4,4 +4,4 @@
 ![Wurobot](./Wurobot.png)
 
 - 微信公众测试号
-！[wx](./wx.jpg)
+![wx](./wx.jpg)
